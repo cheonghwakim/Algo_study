@@ -8,6 +8,8 @@
 - [베스트셀러](https://www.acmicpc.net/problem/1302)
 
 ### 이성진
--
--
--
+- [전화번호 목록] (https://www.acmicpc.net/problem/5052) 
+
+- [친구 네트워크] (https://www.acmicpc.net/problem/4195) 
+
+- [반복 부분문자열] (https://www.acmicpc.net/problem/1605)
