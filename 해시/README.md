@@ -1,7 +1,7 @@
 # 1주차 해시
 
 ### 김청화
-- [암기왕](https://www.acmicpc.net/problem/2776)
+- [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
 - [가장 긴 문자열](https://www.acmicpc.net/problem/3033)
 
