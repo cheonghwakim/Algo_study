@@ -33,12 +33,12 @@ public class BestSeller {
         }
         
         for (String key : map.keySet()) {
-			if(max == map.get(key)) {
+			if(max == map.get(key)) { // max값 찾아서 ArrayList에 넣어줌
 				keySetList.add(key);
 			}
 		}
         
-        Collections.sort(keySetList);
+        Collections.sort(keySetList); // 사전순 정렬
         
         maxkey = keySetList.get(0);
         System.out.println(maxkey);
