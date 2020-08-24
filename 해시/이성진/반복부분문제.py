@@ -1,3 +1,5 @@
+# 시간초과가 발생함. 뭘 더 이상 줄일 수 있는지..,
+
 import sys
 sys.stdin=open("input.txt","rt")
 
