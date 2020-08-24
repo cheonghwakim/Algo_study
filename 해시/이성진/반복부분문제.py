@@ -1,13 +1,16 @@
+import sys
+sys.stdin=open("input.txt","rt")
+
 lenBuns=int(input())
 buns=input()
-
 lt=0
 rt=lenBuns
 while lt<=rt:
     mid=(lt+rt)//2
     d=dict()
     for i in range(lenBuns-mid+1):
-        tmp=buns[i:mid+i]
+        # hash()를 쓰면 메모리가 덜 사용됨.
+        tmp=hash(buns[i:mid+i])
         if tmp not in d.keys():
             d[tmp]=1
         else:
