@@ -15,8 +15,8 @@
 - [반복 부분문자열](https://www.acmicpc.net/problem/1605)
 
 ### 손윤호
-- [듣보잡] (https://www.acmicpc.net/problem/1764)
+- [듣보잡](https://www.acmicpc.net/problem/1764)
 
-- [추월] (https://www.acmicpc.net/problem/2002)
+- [추월](https://www.acmicpc.net/problem/2002)
 
-- [위장] (https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
