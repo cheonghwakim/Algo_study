@@ -8,7 +8,7 @@
 - [베스트셀러](https://www.acmicpc.net/problem/1302)
 
 ### 이성진
-- [전화번호 목록] (https://www.acmicpc.net/problem/5052) 
+- [전화번호 목록] (https://programmers.co.kr/learn/courses/30/lessons/42577) 
 
 - [친구 네트워크] (https://www.acmicpc.net/problem/4195) 
 
