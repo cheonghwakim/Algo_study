@@ -10,7 +10,7 @@
 ### 이성진
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) 
 
-- [친구 네트워크](https://www.acmicpc.net/problem/4195) 
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) 
 
 - [반복 부분문자열](https://www.acmicpc.net/problem/1605)
 
