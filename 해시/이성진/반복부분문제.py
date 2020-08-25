@@ -11,8 +11,7 @@ while lt<=rt:
     mid=(lt+rt)//2
     d=dict()
     for i in range(lenBuns-mid+1):
-        # hash()를 쓰면 메모리가 덜 사용됨.
-        tmp=hash(buns[i:mid+i])
+        tmp=buns[i:mid+i]
         if tmp not in d.keys():
             d[tmp]=1
         else:
