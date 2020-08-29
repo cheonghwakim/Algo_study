@@ -4,7 +4,7 @@ def solution(record):
     user_id=[]
     alias=[]
     for i in range(len(record)):
-        if record[i].split(' ')[0]=='Leave':
+        if record[i][0]=='L':
             a,b=record[i].split(' ')
             for j in range(i):
                 if user_id[j]==b:
