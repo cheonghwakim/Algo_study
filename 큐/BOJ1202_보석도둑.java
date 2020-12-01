@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+// 틀림 -> 
 public class BOJ1202_보석도둑 {
 	static int N, K;
 	static ArrayList<Integer> bags = new ArrayList<>();
