@@ -25,8 +25,7 @@
 
 
 ## 2020.12.08 
-#### 알고리즘 README 기록 시작
-#### 정올 Beginner_Coder 시작
+#### 알고리즘 README 기록 / 정올 Beginner_Coder 시작
 ### 정올 Beginner_Coder 도형만들기2
 * [정올 1523: 별삼각형1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020)
 * [정올 1719: 별삼각형2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=992&sca=2020)
