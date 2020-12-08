@@ -1,6 +1,7 @@
 # Algo_study
 
-## 2020.11.26 ~ 11.29
+#### 이전 문제 정리 
+### 2020.11.26 ~ 11.29
 
 * [백준 1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213) **
 * [백준 8972 미친아두이노](https://www.acmicpc.net/problem/8972)
@@ -12,7 +13,7 @@
 * [백준 1976 여행가자](https://www.acmicpc.net/problem/1976)
 * [백준 11286 절댓값 힙](https://www.acmicpc.net/problem/11286)
 
-## 2020.11.30 ~ 12.06
+### 2020.11.30 ~ 12.06
 
 * [백준 1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
 * [백준 11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
@@ -23,9 +24,10 @@
 * [백준 4195 친구 네트워크](https://www.acmicpc.net/problem/4195)
 
 
-## 2020.12.08
-### 알고리즘 README 기록 시작
-### 정올 Beginner_Coder 시작
+## 2020.12.08 
+#### 알고리즘 README 기록 시작
+#### 정올 Beginner_Coder 시작
+### 정올 Beginner_Coder 도형만들기2
 * [정올 1523: 별삼각형1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020)
 * [정올 1719: 별삼각형2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=992&sca=2020)
 * [정올 1329: 별삼각형3](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=608&sca=2020)
