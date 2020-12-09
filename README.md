@@ -32,3 +32,16 @@
 * [정올 1329: 별삼각형3](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=608&sca=2020)
 * [정올 1461: 숫자삼각형](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=914&sca=2020)
 * [정올 1337: 달팽이삼각형](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=609&sca=2020)
+
+### 2020.12.09
+#### 정올 Beginner_Coder 도형만들기1
+* [정올 1291: 구구단](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010)
+* [정올 1341: 구구단2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2076&sca=2010) 
+* [정올 1303: 숫자사각형1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2069&sca=2010)
+* [정올 1856: 숫자사각형2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1129&sca=2010)
+* [정올 1304: 숫자사각형3](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2070&sca=2010)
+* [정올 2046: 숫자사각형4](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1316&sca=2010)
+* [정올 1307: 문자사각형1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2071&sca=2010)
+* [정올 1314: 문자사각형2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2072&sca=2010)
+* [정올 1338: 문자삼각형1](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2074&sca=2010)
+* [정올 1339: 문자심각형2](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2075&sca=2010)
