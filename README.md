@@ -59,6 +59,6 @@
 * [정올 1430: 숫자의 개수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030) 
 * [정올 1071: 약수와 배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=2030)
 * [정올 1402: 약수 구하기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=678&sca=2030)
-* [정올 2809: 약수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030)
+* [정올 2809: 약수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030) **
 * [정올 1658: 최대공약수와최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=931&sca=2030)
 * [정올 1002: 최대공약수,최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=281&sca=2030)
