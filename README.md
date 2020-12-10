@@ -52,3 +52,13 @@
 * [정올 1331: 문자마름모](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2073&sca=2020) **
 * [정올 1495: 대각선 지그재그](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=767&sca=2020)
 * [정올 2074: 홀수 마방진](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1338&sca=2020)
+
+## 2020.12.10
+### 정올 Beginner_Coder 수학1
+* [정올 1692: 곱셈](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=965&sca=2030)
+* [정올 1430: 숫자의 개수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030) 
+* [정올 1071: 약수와 배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=2030)
+* [정올 1402: 약수 구하기](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=678&sca=2030)
+* [정올 2809: 약수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030)
+* [정올 1658: 최대공약수와최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=931&sca=2030)
+* [정올 1002: 최대공약수,최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=281&sca=2030)
