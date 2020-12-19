@@ -75,10 +75,9 @@
 * [정올 2811: 소수와 합성수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=452&sca=2040) 
 * [정올 1740: 소수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1013&sca=2040)
 * [정올 1901: 소수 구하기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1174&sca=2040)
-
 * [백준 2303: 숫자게임](https://www.acmicpc.net/problem/2303)
 
 ## 2020.12.19
 * [백준 17299: 오등큰수](https://www.acmicpc.net/problem/17299)
 * [백준 2800: 괄호 제거](https://www.acmicpc.net/problem/2800) 
-* [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+* [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004) **
