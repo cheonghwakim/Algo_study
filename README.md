@@ -62,3 +62,23 @@
 * [정올 2809: 약수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030) **
 * [정올 1658: 최대공약수와최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=931&sca=2030)
 * [정올 1002: 최대공약수,최소공배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=281&sca=2030) ** **유클리드호제법**
+
+## 2020.12.11 ~ 2020.12.14 (NH디지털혁신캠퍼스 챌린지 온라인 해커톤)
+
+## 2020.12.15
+* [백준 6198: 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
+* [백준 17298: 오큰수](https://www.acmicpc.net/problem/17298) 
+
+## 2020.12.18
+### 정올 Beginner_Coder 수학2
+* [정올 1009: 각 자리수의 역과 합](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=288&sca=2040)
+* [정올 2811: 소수와 합성수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=452&sca=2040) 
+* [정올 1740: 소수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1013&sca=2040)
+* [정올 1901: 소수 구하기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1174&sca=2040)
+
+* [백준 2303: 숫자게임](https://www.acmicpc.net/problem/2303)
+
+## 2020.12.19
+* [백준 17299: 오등큰수](https://www.acmicpc.net/problem/17299)
+* [백준 2800: 괄호 제거](https://www.acmicpc.net/problem/2800) 
+* [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004)
