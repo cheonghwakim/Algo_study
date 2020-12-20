@@ -83,6 +83,7 @@
 * [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004) **
 
 ## 2020.12.20
+### 정올 Beginner_Coder 수학2
 * [정올 2813: 소수의 개수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040)
 * [정올 2814: 이진수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040) 
 * [정올 1534: 10진수를 2, 8, 16진수로](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040)
