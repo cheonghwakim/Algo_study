@@ -81,3 +81,10 @@
 * [백준 17299: 오등큰수](https://www.acmicpc.net/problem/17299)
 * [백준 2800: 괄호 제거](https://www.acmicpc.net/problem/2800) 
 * [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004) **
+
+## 2020.12.20
+### 정올 Beginner_Coder 수학2
+* [정올 2813: 소수의 개수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040)
+* [정올 2814: 이진수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040) 
+* [정올 1534: 10진수를 2, 8, 16진수로](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040)
+* [백준 3106: 진법 변환](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040) ** Math.pow는 double이라서 범위가 커지면 오차가 커짐!
