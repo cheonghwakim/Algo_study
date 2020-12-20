@@ -87,4 +87,10 @@
 * [정올 2813: 소수의 개수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040)
 * [정올 2814: 이진수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040) 
 * [정올 1534: 10진수를 2, 8, 16진수로](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040)
-* [백준 3106: 진법 변환](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040) ** Math.pow는 double이라서 범위가 커지면 오차가 커짐!
+* [정올 3106: 진법 변환](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040) ** Math.pow는 double이라서 범위가 커지면 오차가 커짐!
+* [백준 1010: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+* [백준 1085: 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+* [백준 1181: 단어 정렬](https://www.acmicpc.net/problem/1181) **
+* [백준 1259: 펠린드롬 수](https://www.acmicpc.net/problem/1259)
+* [백준 1436: 영화감독 숌](https://www.acmicpc.net/problem/1436)
+
