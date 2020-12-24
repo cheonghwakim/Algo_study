@@ -95,13 +95,14 @@
 - [백준 2004: 조합 0의 개수](https://www.acmicpc.net/problem/2004) \*\*
 
 ## 2020.12.20
-
 ### 정올 Beginner_Coder 수학2
 
 - [정올 2813: 소수의 개수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040)
 - [정올 2814: 이진수](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040)
 - [정올 1534: 10진수를 2, 8, 16진수로](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040)
-- [정올 3106: 진법 변환](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040) \*\* Math.pow는 double이라서 범위가 커지면 오차가 커짐!
+- [정올 3106: 진법 변환](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040) -> Math.pow는 double이라서 범위가 커지면 오차가 커짐!
+
+### 백준
 
 - [백준 1010: 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [백준 1085: 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
@@ -126,7 +127,13 @@
 - [백준 11000: 강의실 배정](https://www.acmicpc.net/problem/11000)
 
 ## 2020.12.24
+### 정올 Beginner_Coder 문자열
+- [정올 2857: 세로읽기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050)
+- [정올 1880: 암호풀기(Message Decoding)](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1153&sca=2050)
+- [정올 1516: 단어 세기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=788&sca=2050)
+- [정올 3699: 변장](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3048&sca=2050)
 
+### 백준
 - [백준 1654: 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [백준 2805: 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [백준 1874: 스택 수열](https://www.acmicpc.net/problem/1874)
@@ -134,9 +141,4 @@
 - [백준 1987: 소수찾기](https://www.acmicpc.net/problem/1987)
 - [백준 2108: 통계학](https://www.acmicpc.net/problem/2108)
 
-### 정올 Beginner_Coder 문자열
 
-- [정올 2857: 세로읽기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050)
-- [정올 1880: 암호풀기(Message Decoding)](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1153&sca=2050)
-- [정올 1516: 단어 세기](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=788&sca=2050)
-- [정올 3699: 변장](http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3048&sca=2050)
